@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/usr/local/etc/nginx'
+let g:netrw_dirhist_2='/private/etc'
+let g:netrw_dirhist_3='/Users/myleshyson/.vim'
+let g:netrw_dirhist_4='/Users/myleshyson/Sites/sweetwaterpictureframing'
+let g:netrw_dirhist_5='/Users/myleshyson/.config/valet/Sites'
+let g:netrw_dirhist_6='/Users/myleshyson/Sites/ssd/web'
+let g:netrw_dirhist_7='/Users/myleshyson/Sites/ssd/web/wp-content'
